@@ -11,7 +11,12 @@ More details can be found in file `Final report.pdf`.
 Presenations
 -----------------
 * `presentation1.pdf` is mainly a summary of [Kernel Methods in Deep Learning](https://proceedings.neurips.cc/paper/2009/file/5751ec3e9a4feab575962e78e006250d-Paper.pdf). 
-* `presentation2.pdf` represents the underlying theory and realization of deep kernel machines.
+* `presentation2.pdf` represents the underlying theory and realization of deep kernel machines.  
+
+References
+--------------
+
+See the reference secions in `Final report.pdf`, `presentation1.pdf` and `presentation2.pdf` for details.
 
 Acknowledgement
 -----------------
