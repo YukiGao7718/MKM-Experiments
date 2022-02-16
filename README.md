@@ -16,4 +16,4 @@ Presenations
 Acknowledgement
 -----------------
 
-
+This project is finished during Spring 2021 Math Foundations for Machine Learning and Data Science course. I appreciate Prof.Shuayang Ling a lot for all the instructions and advice he provided to this project.
